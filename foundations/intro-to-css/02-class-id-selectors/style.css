@@ -1,0 +1,20 @@
+.one{
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.one.cooler, #four{
+    font-size: 26px;
+}
+
+#two{
+    color: blue;
+    font-size: 36px;
+}
+
+#four{
+    font-weight: bold;
+    background-color: greenyellow;
+}
+
+
